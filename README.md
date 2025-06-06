@@ -28,5 +28,9 @@ Verificar si está instalado correctamente :
 
 `tsc --version`
 
+## Ejecutar los siguientes comandos
+Para compilar el archivo index.ts : `npm run build`
+
+Para ejecutarlo : `npm run start`
 
 
